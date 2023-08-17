@@ -1,13 +1,11 @@
-# PETLY
+In the application you can:
+- view news about animals
+- view the list of partners
+- view the list of animals depending on the selected category (Lost/found, in good hands, for sale)
+- view detailed information about each pet
 
-Этот проект был создан при помощи
-[Create React App](https://github.com/facebook/create-react-app). Для знакомства
-и настройки дополнительных возможностей
-[обратись к документации](https://facebook.github.io/create-react-app/docs/getting-started).
+after registration you can:
+- add your pets
+- add already existing ads to favorites
 
-## HOW TO START
-
-- `npm start` &mdash; старт в режимі розробки (development)
-- `npm run build` &mdash; білд production версії проєкту
-- `npm run test` &mdash; запуск тестів
-- `npm run lint:js` &mdash; перевірка лінтером
+The search for ads by title is also implemented
